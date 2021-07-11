@@ -8,4 +8,7 @@ Description:
 
 An application with various natural sounds which are played in a loop for an interval of time, to help you Concentrate, Feel Relaxed, A better sleep and to Meditate.
 
+Functionalities:
+ 1) Play different types of soothing music in loop without the internet.
+ 2) Set the timer for which you want the play the sound.
 
